@@ -88,7 +88,9 @@ To run this project, you need to have the following installed:
 
 Watch the demo video below:
 
-![Demo Video](./screenshots/demo.mp4)
+![Demo Video]
+(./screenshots/demo.mp4)
+(https://drive.google.com/file/d/1g0GzuJy2fl3bF0HBZLwkAQCBwAirNt6w/view?usp=sharing)
 
 ## Troubleshooting
 
